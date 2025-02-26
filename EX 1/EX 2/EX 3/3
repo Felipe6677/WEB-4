@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viagens pelo Mundo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Viagens pelo Mundo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="destino1.html">Paris</a></li>
+                <li><a href="destino2.html">Tóquio</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Bem-vindo ao nosso site de Viagens!</h2>
+            <p>Descubra os melhores destinos turísticos ao redor do mundo. Nossos artigos detalham atrações e dicas de viagem para Paris, Tóquio e Nova York.</p>
+            <img

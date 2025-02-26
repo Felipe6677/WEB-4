@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sites Populares</title>
+    <style>
+        a {
+            color: yellow;
+            text-decoration: none;
+        }
+        a:hover {
+            color: green;
+        }
+        a:visited {
+            color: pink;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sites Populares</h1>
+    <ul>
+        <li><a href="https://www.google.com" target="_blank"><strong>Google</strong></a></li>
+        <li><a href="https://www.facebook.com" target="_blank"><strong>Facebook</strong></a></li>
+        <li><a href="https://www.twitter.com" target="_blank"><strong>Twitter</strong></a></li>
+        <!-- Continue com os outros links -->
+    </ul>
+</body>
+</html>
